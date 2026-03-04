@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?text=Hello!&animation=twinkling&type=waving&color=gradient&height=100"/>
 </p>
-## About Me!
+
 ```yaml
 name: Jenna Vervoort
 education: Computer Engineering Student at the University of Alberta
