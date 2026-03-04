@@ -4,10 +4,13 @@
 
 ```yaml
 A Little About Me!
+
 name: Jenna Vervoort
+pronouns: She/Her
+--------------------------------------------------------------------------------
 education: Computer Engineering Student at the University of Alberta
 locatedIn: Edmonton, Alberta, Canada
-
+--------------------------------------------------------------------------------
 currentlyLearning: ["ARM Assembly, C, C++"]
 2026 Goals: ["Create a few resume worthy projects"]
 hobbies: ["Video Games", "Reading", "Sudoku" ]
